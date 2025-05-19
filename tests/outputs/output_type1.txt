@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 1 at 3.: Invalid Numbers.

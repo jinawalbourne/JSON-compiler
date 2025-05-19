@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 3 at 0123: Invalid Numbers.

@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 4 at true: Reserved Words as Dictionary Key.

@@ -1,0 +1,15 @@
+<LBRACE: {>
+<STRING: hello>
+<COLON: :>
+<NUMBER: 25>
+<COMMA: ,>
+<STRING: array>
+<COLON: :>
+<LBRACKET: [>
+<NUMBER: 1>
+<COMMA: ,>
+<NUMBER: 2>
+<COMMA: ,>
+<NUMBER: 3>
+<RBRACKET: ]>
+<RBRACE: }>

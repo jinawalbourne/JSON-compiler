@@ -1,0 +1,9 @@
+<LBRACE: {>
+<STRING: key1>
+<COLON: :>
+<STRING: value>
+<COMMA: ,>
+<STRING: key1>
+<COLON: :>
+<STRING: duplicate>
+<RBRACE: }>

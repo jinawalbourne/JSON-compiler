@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 7 at true: Reserved Words as Strings.

@@ -1,0 +1,5 @@
+<LBRACE: {>
+<STRING: key1>
+<COLON: :>
+<STRING: true>
+<RBRACE: }>

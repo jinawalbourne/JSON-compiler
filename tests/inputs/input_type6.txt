@@ -1,0 +1,11 @@
+<LBRACE: {>
+<STRING: key1>
+<COLON: :>
+<LBRACKET: [>
+<NUMBER: 1>
+<COMMA: ,>
+<STRING: two>
+<COMMA: ,>
+<FALSE: false>
+<RBRACKET: ]>
+<RBRACE: }>

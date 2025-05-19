@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 6 at two: Consistent Types for List Elements.

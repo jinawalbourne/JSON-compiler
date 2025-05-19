@@ -1,0 +1,13 @@
+<LBRACE: {>
+<STRING: name>
+<COLON: :>
+<STRING: Mike>
+<COMMA: ,>
+<STRING: age>
+<COLON: :>
+<NUMBER: 25>
+<COMMA: ,>
+<STRING: isStudent>
+<COLON: :>
+<TRUE: true>
+<RBRACE: }>

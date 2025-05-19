@@ -1,0 +1,11 @@
+Abstract Syntax Tree:
+Node: OBJECT
+  Node: PAIR
+    Leaf: KEY -> hello
+    Leaf: NUMBER -> 25
+  Node: PAIR
+    Leaf: KEY -> array
+    Node: ARRAY
+      Leaf: NUMBER -> 1
+      Leaf: NUMBER -> 2
+      Leaf: NUMBER -> 3

@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 5 at key1: No Duplicate Keys in Dictionary.

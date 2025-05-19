@@ -1,0 +1,14 @@
+Abstract Syntax Tree:
+Node: OBJECT
+  Node: PAIR
+    Leaf: KEY -> grades
+    Node: ARRAY
+      Leaf: NUMBER -> 90.8
+      Leaf: NUMBER -> 85.0
+      Leaf: NUMBER -> 70.5
+  Node: PAIR
+    Leaf: KEY -> subjects
+    Node: ARRAY
+      Leaf: STRING -> Math
+      Leaf: STRING -> Science
+      Leaf: STRING -> History

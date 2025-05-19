@@ -1,0 +1,11 @@
+Abstract Syntax Tree:
+Node: OBJECT
+  Node: PAIR
+    Leaf: KEY -> name
+    Leaf: STRING -> Mike
+  Node: PAIR
+    Leaf: KEY -> age
+    Leaf: NUMBER -> 25
+  Node: PAIR
+    Leaf: KEY -> isStudent
+    Leaf: BOOL -> True

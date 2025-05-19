@@ -1,0 +1,2 @@
+Semantic errors:
+-Error Type 2 at : Empty Key.
